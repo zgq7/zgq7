@@ -1,6 +1,6 @@
 ### I'm here 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=zgq7&show_icons=true&theme=swift" alt="zgq7">
+<img src="https://github-readme-stats.vercel.app/api?username=zgq7&show_icons=true&theme=panda" alt="zgq7">
 
 <!--
 **zgq7/zgq7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
